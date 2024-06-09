@@ -203,5 +203,31 @@ anna@anna:~/Downloads$ display extflag.png
 ## CHALLENGE 2
 ### SAKURA ROOM
 #### Task 1:
+##### 
+Flag was already provided.
+#### Task 2:
 #####
+On opening the webpage, an image was displayed. On inspecting the page, the username was found as SakuraSnowAngelAiko.
+#### Task 3:
+#####
+On searching for the username, a LinkedIn page was found, which contained the full name of the attacker Aiko Abe.
+Also, a github account was foung which contained a few repos.
+Analyzing the repos, the PGP reository contained a public key block. On searching, I converted it into a .asc file and ran the command as follows to obtain the email address.
+```shell
+anna@anna:~/INFOSEC$ gpg --import email.asc 
+gpg: key ECDD0FD294110450: public key "SakuraSnowAngel83@protonmail.com" imported
+gpg: Total number processed: 1
+gpg:               imported: 1
+```
+#### Task 4:
+#####
+While analyzing the repositories during the previous task, I fount one contained something about the ewallet. However, it was modified. THe original line was different. 
+stratum://0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef.Aiko:pswd@eu1.ethermine.org:4444
+On searching, I found that that 0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef was the wallet address. This took me to Ethereum transactions site and thus cryptocurrency was obttained.
+The transaction history showed that the the mining pool on said date was Ethermine.
+Some transactions showed Tether to be used which was the second cryptocurrency.
+
+#### Task 5:
+#####
+
 
