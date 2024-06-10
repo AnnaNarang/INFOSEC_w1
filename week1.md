@@ -229,5 +229,34 @@ Some transactions showed Tether to be used which was the second cryptocurrency.
 
 #### Task 5:
 #####
+Searching for AikoAbe3 showed a Twitter profile with handle SakuraLoverAiko.
+#### Task 6:
+#####
+On putting the image of cherry blossom through google lens, results showed that it was taken near Washington DC monument. On searching the nearest airport had a code DCA (Ronald Reagan Washington National Airport).
+The attacker also posted a picture of an airport lounge, which on putting through google lens showed the airport to be in Tokyo, HND.
+The picture of the map posted by the attacker, on putting through google lens, showed the Lake to be Lake Inawashiro.
+The png image provided in the hint for previous task showed the name Hirosaki in city wifi which led me to try it out as the "home" of the attacker.
+
+### OSINT EXCERCISES
+#### EXCERCISE 6
+##### 
+On putting the image through google lens, the top result showed the same tweet that we have been asked to verify.
+However, on analyzing the exact matches, various results claimed the picture to be of Iraq and on a different date.
+The image was also on wikepedia along with its metadata thus proving the tweet to be false.
+*https://en.m.wikipedia.org/wiki/File:WaziriyaAutobombeIrak.jpg#metadata*
+
+#### EXCERCISE 3
+#####
+On putting the image through google lens and searching for the said event, results showed the picture to be taken at the presidential complex.
+On searching, I found the presidential complex was located at Ankara with coordinates: 39.9308°N 32.7989°E
+
+#### EXCERCISE 4
+#####
 
 
+#### EXCERCISE 14
+#####
+
+
+#### EXCERCISE 26
+#####
