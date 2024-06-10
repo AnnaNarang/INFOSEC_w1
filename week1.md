@@ -252,11 +252,12 @@ On searching, I found the presidential complex was located at Ankara with coordi
 
 #### EXCERCISE 4
 #####
-
-
+On putting the image through google lens, the results showed the image to be of the Oan Resort.
+Searching for the Oan resort, I got the location coordinates as: 7.3625845,151.7563188
+Searching about the third problem led me to Google Earth, where on analyzing I concluded the picture to be taken from slight West of North.
+ 
 #### EXCERCISE 14
 #####
+On searching for earthquake alongwith date and time mentioned in the video showed that the Earthquake to have occured in Romania with a magnitude of nearly 5.8 richter scale.
 
 
-#### EXCERCISE 26
-#####
